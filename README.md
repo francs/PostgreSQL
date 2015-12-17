@@ -1,16 +1,16 @@
-= PostgreSQL 中文资料汇总
+﻿= PostgreSQL 中文资料汇总
 
 开源数据库 PostgreSQL 中文资料非常缺乏，很多社区朋友苦于上手的中文资料少，因此汇总收集以下 PostgreSQL 中文资料，包括 PostgreSQL 中文手册，中文书籍，技术博客，培训视频和历届 PostgreSQL 大会材料。希望这些中文资料能够方便有需要的朋友，降低 PostgreSQL 的上手门槛。
 
 == 中文社区网站 
-PostgreSQL 中文社区官网：  http://postgres.cn
-PostgreSQL 中文BBS论坛：  http://bbs.pgsqldb.com (论坛近期维护中)
+* PostgreSQL 中文社区官网：  http://postgres.cn
+* PostgreSQL 中文BBS论坛：  http://bbs.pgsqldb.com (论坛近期维护中)
 
-官方手册中文版
+== 官方手册中文版
 PostgreSQL9.3 中文手册：   http://www.postgres.cn/docs/9.3/index.html
 PostgreSQL9.4 中文手册：   http://www.postgres.cn/docs/9.4/index.html
 
-推荐书籍( 中文 )
+== 推荐书籍( 中文 )
 PostgreSQL从菜鸟到专家(中文版)
 PostgreSQL 9 Administration Cookbook (中文版)
 PostgreSQL 9.0性能调校 
