@@ -97,6 +97,7 @@ PostgreSQL 培训视频教程(德哥)： http://www.tudou.com/home/digoal
 
 image::./picture/1.png[align="center"]
  
+![alt text](/picture/1.png "Title")
 
 我分享过的主题
 ---
