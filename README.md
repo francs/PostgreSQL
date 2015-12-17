@@ -95,9 +95,8 @@ PostgreSQL 培训视频教程(德哥)： http://www.tudou.com/home/digoal
 
 - PostgreSQL 用户会微博：  PostgreSQL用户会
 
-image::./picture/1.png[align="center"]
  
-![alt text](/picture/1.png "Title")
+![alt text](/picture/1.png "PostgreSQL用户会官微官博")
 
 我分享过的主题
 ---
