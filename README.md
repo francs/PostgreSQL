@@ -95,7 +95,7 @@ PostgreSQL 培训视频教程(德哥)： http://www.tudou.com/home/digoal
 
 - PostgreSQL 用户会微博：  PostgreSQL用户会
 
-image::./picture/c1_1.png[align="center"]
+image::.1.png[align="center"]
  
 
 我分享过的主题
