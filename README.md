@@ -20,17 +20,19 @@
 推荐书籍( 中文 )
 ---
 
-- PostgreSQL从菜鸟到专家(中文版)
-
-- PostgreSQL 9 Administration Cookbook (中文版)
-
-- PostgreSQL 9.0性能调校 
-
 - 数据库查询优化器的艺术
 
 - PostgreSQL 数据库内核分析
 
+- PostgreSQL服务器编程
+
 - PostgreSQL修炼之道：从小工到专家
+
+- PostgreSQL即学即用（第2版）
+
+- PostgreSQL 9 Administration Cookbook（第2版）
+
+- 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用
 
 技术博客
 ---
