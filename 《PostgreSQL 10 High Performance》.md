@@ -57,9 +57,11 @@
 * 16: AVOIDING COMMON PROBLEMS
 
 
-	GRANT ALL ON someschema TO somerole;
-	GRANT SELECT, INSERT, UPDATE, DELETE ON  someschema.sometable TO somegroup;
-	GRANT somerole TO someuser, otheruser;
+    GRANT ALL ON someschema TO somerole;
+    
+    GRANT SELECT, INSERT, UPDATE, DELETE ON  someschema.sometable TO somegroup;
+
+    GRANT somerole TO someuser, otheruser;
 
 
 关于技术审校
