@@ -65,3 +65,10 @@ PacktPub 的技术书籍出版前会联系行业相关人士做技术审校，�
 ![alt text](/picture/reveiew.jpg )
 
 希望国内有更多的同行加入到外版书籍技术审校工作中。
+
+----
+GRANT ALL ON someschema TO somerole;
+GRANT SELECT, INSERT, UPDATE, DELETE ON  someschema.sometable TO somegroup;
+GRANT somerole TO someuser, otheruser;
+----
+
