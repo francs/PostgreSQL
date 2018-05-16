@@ -7,6 +7,8 @@
 
 出版日期：2018年4月30日
 
+语言：英文
+
 作者：Ibrar Ahmed 、Gregory Smith、Enrico Pirozzi 
 
 审稿：**谭峰（Francs）**、Srivathsava Rangarajan
