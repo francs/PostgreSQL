@@ -50,6 +50,6 @@
 
 下面是本书关于Reviewer 的介绍，我用了一段比较别扭的英文介绍自己
 
-![alt text](/picture/review2.jpg )
+![alt text](/picture/review_1.jpg )
 
 
