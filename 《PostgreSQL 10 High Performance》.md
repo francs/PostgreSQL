@@ -1,7 +1,7 @@
 ﻿完成《PostgreSQL 10 High Performance》英文版技术审校
 ====================
 
-今天收到了 PacktPub  出版社寄出的《PostgreSQL 10 High Performance》一书的纸质版，这已经不是初次进行英文原版书籍的审校了，之前完成了《PostgreSQL High Performance Cookbook》英文书籍的审校并收到这本书的纸质版，至今记得当时是多么地兴奋，啥也不说，直接上图。
+今天收到了 PacktPub  出版社寄出的《PostgreSQL 10 High Performance》一书的纸质版，这已经是第二次进行英文原版书籍的技术审校了，之前完成了《PostgreSQL High Performance Cookbook》英文书籍的审校并收到这本书的纸质版，至今记得当时是多么地兴奋，啥也不说，直接上图。
 
 ![alt text](/picture/B08774_cover.png )
 
@@ -60,9 +60,27 @@
 关于技术审校
 ---
 
-PacktPub 的技术书籍出版前会联系行业相关人士做技术审校，技术审校者主要从技术方面审校全书的内容，审校者对全书的内容反馈建议。书籍出版后，作为对技术审校者工作的回报，PacktPub 出版社一方面将技术审校者的姓名公布在书籍上，另一方面会寄一本纸质书籍给技术审校者，以下是关于我的个人介绍。
+PacktPub 的技术书籍出版前会联系行业相关人士做技术审校，技术审校者主要从技术方面审校全书的内容，审校者对全书的内容反馈建议。书籍出版后，作为对S技术审校者工作的回报，PacktPub 出版社一方面将技术审校者的姓名公布在书籍上，另一方面会寄一本纸质书籍给技术审校者，以下是关于我的个人介绍。
 
 ![alt text](/picture/reveiew.jpg )
 
 希望国内有更多的同行加入到外版书籍技术审校工作中。
+
+
+
+# 标题一
+
+## 标题二
+
+这是小代码，  `SELECT 1 FROM TABLE1;`
+
+这是代码段：
+
+
+```
+SELECT * FROM A;
+SELECT * FROM B;
+```
+
+
 
