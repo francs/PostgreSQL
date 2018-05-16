@@ -5,9 +5,9 @@
 
 ![alt text](/picture/B08774_cover.png )
 
-出版日期：2018年4月30日
-
 语言：英文
+
+出版日期：2018年4月30日
 
 作者：Ibrar Ahmed 、Gregory Smith、Enrico Pirozzi 
 
