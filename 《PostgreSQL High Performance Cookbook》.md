@@ -5,7 +5,7 @@
 
 ![alt text](/picture/PostgreSQL_High_Performance_Cookbook.jpg )
 
-语言：英文
+语言：英语
 
 出版日期：2017年3月29日
 

@@ -5,7 +5,7 @@
 
 ![alt text](/picture/PostgreSQL10_High_Performance.png )
 
-语言：英文
+语言：英语
 
 出版日期：2018年4月30日
 
