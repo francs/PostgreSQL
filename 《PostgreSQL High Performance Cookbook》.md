@@ -1,7 +1,7 @@
 完成《PostgreSQL High Performance Cookbook》英文版技术审校  
 ===========
 
-前几天收到 Packt Publishing  出版社编辑的邮件，她很兴奋地告诉我   《PostgreSQL High Performance Cookbook》  一书已出版， 并感谢我对此书的技术校对工作，同时给我寄了一本样书，我很高兴，毕竟利用业余时间完成了本书的校对工作，从 Packt Publishing 编辑联系我到此书出版大概有两年时间。
+前几天收到 [Packt Publishing][1] 出版社编辑的邮件，她很兴奋地告诉我 《PostgreSQL High Performance Cookbook》 一书已出版， 并感谢我对此书的技术校对工作，同时给我寄了一本样书，我很高兴，毕竟利用业余时间完成了本书的校对工作，从 [Packt Publishing][1] 编辑联系我到此书出版大概有两年时间。
 
 ![alt text](/picture/PostgreSQL_High_Performance_Cookbook.jpg )
 
@@ -52,4 +52,5 @@
 
 ![alt text](/picture/review_1.jpg )
 
+[1]:https://www.packtpub.com/
 
