@@ -1,7 +1,7 @@
 ﻿完成《PostgreSQL 10 High Performance》英文版技术审校
 ====================
 
-今天收到了 [Packt Publishing][1] 出版社寄出的《PostgreSQL 10 High Performance》一书的纸质版，这已经是第二次进行英文原版书籍的技术审校了，之前完成了《PostgreSQL High Performance Cookbook》英文书籍的审校并收到这本书的纸质版，至今记得当时是多么地兴奋，啥也不说，直接上图。
+今天收到了 [Packt Publishing][1] 出版社寄出的 [《PostgreSQL 10 High Performance》][2] 一书的纸质版，这已经是第二次进行英文原版书籍的技术审校了，之前完成了《PostgreSQL High Performance Cookbook》英文书籍的审校并收到这本书的纸质版，至今记得当时是多么地兴奋，啥也不说，直接上图。
 
 ![alt text](/picture/PostgreSQL10_High_Performance.png )
 
@@ -66,3 +66,4 @@
 希望国内有更多的同行加入到外版书籍技术审校工作中。
 
 [1]:https://www.packtpub.com/
+[2]:https://github.com/francs/PostgreSQL/blob/master/%E3%80%8APostgreSQL%20High%20Performance%20Cookbook%E3%80%8B.md
