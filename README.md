@@ -1,4 +1,4 @@
-﻿PostgreSQL 博客汇总
+﻿PostgreSQL 博客
 ====================
 
 # 参与过的 PostgreSQL 书籍
