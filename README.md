@@ -1,6 +1,13 @@
 ﻿PostgreSQL 博客
 ====================
 
+分隔线
+-------------------
+
+分隔线
+**********
+
+
 # 参与过的 PostgreSQL 书籍
 
 * [《PostgreSQL 9 Administration Cookbook（第2版）》中文版发布][1]
