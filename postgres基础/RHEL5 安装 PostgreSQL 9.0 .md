@@ -147,30 +147,30 @@ or
     pg_ctl -D /usr/local/pgsql/data -l logfile start
 ```
     
-启动数据库
+## 启动数据库
 ```
 pg_ctl -D /database/pgdata/pg_root/data-l /database/pgdata/pg_root/log/pgsql.log start
 ```
 
-关闭数据库 (参考步骤，这步只是为了显示关闭数据库命令)
+## 关闭数据库 (参考步骤，这步只是为了显示关闭数据库命令)
 
 ```
 pg_ctl  -D /database/pgdata/pg_root/data
 ```
 
-创建数据库用户
+## 创建数据库用户
 ```
 CREATE ROLE usera LOGIN
   ENCRYPTED PASSWORD 'usera'
    nosuperuser inherit nocreatedb nocreaterole;
 ```
 
-创建数据库
+## 创建数据库
 ```
 createdb  mydb -O usera
 ```
  
-登陆测试
+## 登陆测试
 ```
 psql -dmydb -Uusera
 psql (9.0beta3)
