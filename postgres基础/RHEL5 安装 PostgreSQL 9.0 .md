@@ -93,15 +93,15 @@ alias rm='rm -i'
 alias ll='ls -lh'
 ```
 
-```
-
 ## 解压并编译
 
+解压安装包到 /opt/postgresql-9.0beta3：
 ```
---解压安装包到 /opt/postgresql-9.0beta3：
 # tar xvf postgresql-9.0beta3.tar.gz
+```
 
---进行安装配置
+进行安装配置
+```
 cd /opt/postgresql-9.0beta3
 ./configure --prefix=/opt/pg_root --with-pgport=1921 --with-segsize=8 --with-wal-segsize=64 --with-wal-blocksize=64 --with-perl --with-python --with-openssl --with-pam --with-ldap --with-libxml --with-libxslt --enable-thread-safety
 ```
