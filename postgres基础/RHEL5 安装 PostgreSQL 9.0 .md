@@ -4,6 +4,9 @@
 **作者**：谭峰(francs) 
 
 **日期**：2010-07-31
+
+**分类**：PostgreSQL基础
+
 -------------------
 
  以下是第一次在红帽子五上安装POSTGRESQL笔记, 该篇日志描述了在Red Hat Enterprise 5上安装Postgresql-9.0beat3的详细安装过程， 操作系统安装步骤已省略。
