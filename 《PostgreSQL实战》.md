@@ -6,7 +6,7 @@
 
 本书基于 PostgreSQL 10 编写，以实践为主，希望对 PGer 带来帮助。
 
-![](/images/PostgreSQL实战正面.jpg)
+![](/picture/PostgreSQL实战正面.jpg)
 
 **作者**:       谭峰、张文升
 
