@@ -13,9 +13,11 @@
 官方手册中文版
 ---
 
-- PostgreSQL9.3 中文手册：   http://www.postgres.cn/docs/9.3/index.html
+- PostgreSQL 9.3 中文手册：   http://www.postgres.cn/docs/9.3/index.html
 
-- PostgreSQL9.4 中文手册：   http://www.postgres.cn/docs/9.4/index.html
+- PostgreSQL 9.4 中文手册：   http://www.postgres.cn/docs/9.4/index.html
+
+- PostgreSQL 9.5 中文手册：   http://www.postgres.cn/docs/9.5/index.html
 
 推荐书籍( 中文 )
 ---
