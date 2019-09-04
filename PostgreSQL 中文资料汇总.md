@@ -17,6 +17,8 @@
 
 - PostgreSQL9.4 中文手册：   http://www.postgres.cn/docs/9.4/index.html
 
+- PostgreSQL 9.5 中文手册：   http://www.postgres.cn/docs/9.5/index.html
+
 推荐书籍( 中文 )
 ---
 
@@ -36,12 +38,14 @@
 
 - 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用
 
+- PostgreSQL  实战
+
 技术博客
 ---
 
 - 德哥：      http://blog.163.com/digoal@126/
 
-- 谭峰(francs)：    http://francs3.blog.163.com/
+- 谭峰(francs)：   https://postgres.fun
 
 - 陈立群(kenyon)：   http://my.oschina.net/Kenyon
 
