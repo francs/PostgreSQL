@@ -8,7 +8,6 @@
  
 * PostgreSQL 中文社区官网：  http://postgres.cn
 
-* PostgreSQL 中文BBS论坛：  http://bbs.pgsqldb.com (论坛近期维护中)
 
 官方手册中文版
 ---
@@ -19,12 +18,14 @@
 
 - PostgreSQL 9.5 中文手册：   http://www.postgres.cn/docs/9.5/index.html
 
+- PostgreSQL 10.1 中文手册:    http://www.postgres.cn/docs/10/index.html
+
+- PostgreSQL 11.2 中文手册:  http://www.postgres.cn/docs/11/index.html
+
+
 推荐书籍( 中文 )
 ---
 
-- PostgreSQL 9.0性能调校 
-
-- 数据库查询优化器的艺术
 
 - PostgreSQL 数据库内核分析
 
@@ -36,9 +37,10 @@
 
 - PostgreSQL 9 Administration Cookbook（第2版）
 
-- 数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用
-
 - PostgreSQL  实战
+
+-  PostgreSQL指南：内幕探索
+
 
 技术博客
 ---
