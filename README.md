@@ -21,14 +21,8 @@
 
 ## 联系方式
 
-- Email: francs.tan@postgres.cn
-
-- Github博客：https://postgres.fun
-
-- 网易博客：http://francs3.blog.163.com  
-
+- 博客：https://postgres.fun
 - Github：https://github.com/francs
-
 - Stackoverflow.：https://stackoverflow.com/users/527628/francs
-
 - Weibo: https://weibo.com/u/1992989604
+- Email: francs.tan@postgres.cn
