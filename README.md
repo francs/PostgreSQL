@@ -23,7 +23,7 @@
 
 - Email: francs.tan@postgres.cn
 
-- Github博客：https://francs.top
+- Github博客：https://postgres.fun
 
 - 网易博客：http://francs3.blog.163.com  
 
